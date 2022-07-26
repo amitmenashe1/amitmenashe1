@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amit Menashe.
-- 👀 I’m interested in a full time job as a software engineer/ full-stack/ back-end developer.
+- 👀 I’m interested in a full time/ part time job as a software engineer/ full-stack/ back-end developer.
 - 🌱 I’m currently studying Computer Science.
 - 📫 How to reach me: amitmenashe2@gmail.com
 
